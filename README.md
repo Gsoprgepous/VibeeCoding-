@@ -27,7 +27,7 @@ Because:
 - Internet isn’t always available (yes, even for IT people — shocker!).
 - Speed matters: you need advice *now*, not after “Connecting…”.
 
-## 🧠 And what’s next
+## !! And what’s next
 
 Honestly?  
 Everything here right now is just a **teaser**.  
