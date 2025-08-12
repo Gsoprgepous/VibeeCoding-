@@ -52,7 +52,7 @@ I’m working toward a bigger societal case:
 >   
 > Spoiler ahead: Its not cool. Это awkward for everyone
 
-Yeah — this is also about communication, respect, and self-control.  
+Yes, this is also about communication, respect, and self-control.  
 And about the fact that empathy and intelligence should go hand in hand.
 
 ## Stack
@@ -64,7 +64,7 @@ And about the fact that empathy and intelligence should go hand in hand.
 ---
 
 **P.S.**  
-If you’re an IT person reading this — remember:  
+If you’re an especialy an IT person reading this:  
 Soft skills aren’t a 2-hour workshop you forget about afterwards.  
 They’re something you can (and should) level up every single day.  
-And yes empathy doesn’t get in the way of landing your dream offer.
+And yes empathy doesn’t get in the way of landing your dream offer
