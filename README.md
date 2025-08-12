@@ -40,7 +40,7 @@ I’m working toward a bigger societal case:
 > but I truly had believed they're my friends)  
 > И вообще, ты хороший человек, в жизни у тебя всё супер будет,  
 > ты smart genious cute и hott.  
-> Sooo давай через 3 недели поговорим, когда всё это закончится».  
+> Sooo давай через 3 недели поговорим, когда всё это закончится» (dated on 08/03/25 ) 
 >   
 > How to channel that energy into something positive,  
 > How to achieve more instead of sinking into rudeness or passive aggression,  
