@@ -36,8 +36,8 @@ I’m working toward a bigger societal case:
 > **How the brain and body react when a girl politely rejects you?**  
 > И не просто «rejected», а explained:  
 > «У меня сейчас 3 кейс-чемпионата и 2 хакатона параллельно,  
-> and also 5 guys told me almost the same,  
-> but I truly believed they're my friends.  
+> and also 5 guys told me almost the same at the same time,  
+> but I truly had believed they're my friends)  
 > И вообще, ты хороший человек, в жизни у тебя всё супер будет,  
 > ты smart genious cute и hott.  
 > Sooo давай через 3 недели поговорим, когда всё это закончится».  
