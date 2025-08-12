@@ -1,0 +1,40 @@
+import { useState } from 'react';
+import { WelcomeScreen } from './components/WelcomeScreen';
+import { AnalysisScreen } from './components/AnalysisScreen';
+import { RecommendationScreen } from './components/RecommendationScreen';
+import { EmpathyLearningScreen } from './components/EmpathyLearningScreen';
+import { SettingsScreen } from './components/SettingsScreen';
+
+type Screen = 'welcome' | 'analysis' | 'recommendations' | 'learning' | 'settings';
+
+export default function App() {
+  const [currentScreen, setCurrentScreen] = useState<Screen>('welcome');
+  const [userName] = useState('Anna'); // In a real app, this would come from user settings
+
+  const handleNavigate = (screen: string) => {
+    setCurrentScreen(screen as Screen);
+  };
+
+  return (
+    <div className="min-h-screen bg-white overflow-hidden">
+      {/* Mobile Container */}
+      <div className="max-w-sm mx-auto min-h-screen relative">
+        {currentScreen === 'welcome' && (
+          <WelcomeScreen onNavigate={handleNavigate} userName={userName} />
+        )}
+        {currentScreen === 'analysis' && (
+          <AnalysisScreen onNavigate={handleNavigate} />
+        )}
+        {currentScreen === 'recommendations' && (
+          <RecommendationScreen onNavigate={handleNavigate} />
+        )}
+        {currentScreen === 'learning' && (
+          <EmpathyLearningScreen onNavigate={handleNavigate} />
+        )}
+        {currentScreen === 'settings' && (
+          <SettingsScreen onNavigate={handleNavigate} />
+        )}
+      </div>
+    </div>
+  );
+}
