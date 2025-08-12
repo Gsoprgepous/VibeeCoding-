@@ -1,4 +1,4 @@
-SettingsScreen.tsximport { ArrowLeft, Wifi, WifiOff, Globe, Zap, Shield, Mic, MessageSquare } from 'lucide-react';
+import { ArrowLeft, Wifi, WifiOff, Globe, Zap, Shield, Mic, MessageSquare } from 'lucide-react';
 import { useState } from 'react';
 
 interface SettingsScreenProps {
