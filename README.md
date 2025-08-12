@@ -1,5 +1,7 @@
 # Empathetic Communicator: soft skills, but without the fluff
 
+https://www.figma.com/make/Ka1sSBDqUujq6LXuVW7Wwi/Empathetic-Communicator-Mobile-App?node-id=0-1&t=nYZaz93IECEKsmLi-1 
+
 > IT folks in 2025: learning Python, Docker, Kubernetes… and of course, polishing our soft skills (to get that juicier offer and a fatter paycheck of course💰).
 > But here’s the catch- in our daily routine, it’s ridiculously easy to forget about empathy. Especially when someone replies “ok” without an emoji.
 
