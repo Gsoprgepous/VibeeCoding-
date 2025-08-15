@@ -29,33 +29,6 @@ Because:
 - Internet isn’t always available (yes, even for IT people — shocker!).
 - Speed matters: you need advice *now*, not after “Connecting…”.
 
-## !! And what’s next
-
-Honestly?  
-Everything here right now is just a **teaser**.  
-I’m working toward a bigger societal case:  
-
-> **How the brain and body react when a girl politely rejects you?**  
-> И не просто «rejected», а explained:  
-> «У меня сейчас 3 кейс-чемпионата и 2 хакатона параллельно,  
-> and also 5 guys told me almost the same at the same time,  
-> but I truly had believed they're my friends)  
-> И вообще, ты хороший человек, в жизни у тебя всё супер будет,  
-> ты smart genious cute и hott.  
-> Sooo давай через 3 недели поговорим, когда всё это закончится» (dated on 08/03/25 ) 
->   
-> How to channel that energy into something positive,  
-> How to achieve more instead of sinking into rudeness or passive aggression,  
-> How *not* to be a jerk and avoid blocking girls.  
-> And don't be rude in the dormitory elevator просто за то, что она exists.  
-> And не complain друзьям так, чтобы потом они ходили и  
-> бросали на неё эти long judging взгляды в духе *«мы знаем, что ты сделала»* every time,  
-> когда она проходит мимо.  
->   
-> Spoiler ahead: Its not cool. Это awkward for everyone
-
-Yes, this is also about communication, respect, and self-control.  
-And about the fact that empathy and intelligence should go hand in hand.
 
 ## Stack
 
